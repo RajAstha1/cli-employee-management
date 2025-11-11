@@ -1,0 +1,23 @@
+{
+  "name": "cli-employee-management",
+  "version": "1.0.0",
+  "description": "A CLI-based employee management system built with Node.js using arrays for data storage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "employee",
+    "management",
+    "nodejs",
+    "arrays",
+    "CRUD"
+  ],
+  "author": "RajAstha1",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
