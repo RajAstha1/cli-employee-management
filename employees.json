@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "john.doe@company.com",
+    "department": "Engineering",
+    "salary": 75000
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "email": "jane.smith@company.com",
+    "department": "Marketing",
+    "salary": 65000
+  },
+  {
+    "id": "3",
+    "name": "Bob Wilson",
+    "email": "bob.wilson@company.com",
+    "department": "Sales",
+    "salary": 70000
+  }
+]
